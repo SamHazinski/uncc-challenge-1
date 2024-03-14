@@ -86,6 +86,13 @@ p {
     background-color: #2589bd;
 }
 
+/*does the job of .benefit-lead .benefit-brand .benefit-cost 
+.benefit-theme{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+*/
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
